@@ -1,6 +1,6 @@
 #Author: Pranav Shirali
 #Description: Python program to check a given number is palindrome and to count the number of occurence of each digit.
-
+#changes
 #Input the number
 number = int(input("Enter the number to be evaluted: "))
 
